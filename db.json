@@ -216,13 +216,6 @@
       "restaurantId": "bread-bakery"
     },
     {
-      "name": "Aline",
-      "date": "2016-12-12T18:25:43",
-      "rating": 3,
-      "comments": "NÃO recomendo. O recheio é só um creme, não tem camarão e nem carne",
-      "restaurantId": "bread-bakery"
-    },
-    {
       "name": "Renata",
       "date": "2016-12-12T18:25:43",
       "rating": 5,
@@ -244,38 +237,10 @@
       "restaurantId": "burger-house"
     },
     {
-      "name": "Suzana",
-      "date": "2016-12-12T18:25:43",
-      "rating": 3.5,
-      "comments": "Meu sanduíche chegou frio e todo desmontado =\\",
-      "restaurantId": "burger-house"
-    },
-    {
-      "name": "Eric",
-      "date": "2017-01-23T18:25:43",
-      "rating": 4.5,
-      "comments": "Excelente opção! Recomendo!",
-      "restaurantId": "coffee-corner"
-    },
-    {
       "name": "Amanda",
       "date": "2017-02-02T18:25:43",
       "rating": 2.5,
       "comments": "Demorou muito e o café veio gelado",
-      "restaurantId": "coffee-corner"
-    },
-    {
-      "name": "Carla",
-      "date": "2016-12-12T18:25:43",
-      "rating": 4.8,
-      "comments": "Tudo perfeito. Entrega, embalagem, comida. Resultado? Melhor custo beneficio",
-      "restaurantId": "coffee-corner"
-    },
-    {
-      "name": "Rodrigo",
-      "date": "2016-12-12T18:25:43",
-      "rating": 4,
-      "comments": "Muito rápida a entrega, mas é caro.",
       "restaurantId": "coffee-corner"
     },
     {
@@ -291,13 +256,6 @@
       "rating": 4.5,
       "comments": "Chegou muito rápido, antes mesmo da previsão",
       "restaurantId": "green-food"
-    },
-    {
-      "name": "Fatinha",
-      "date": "2017-01-23T18:25:43",
-      "rating": 2,
-      "comments": "Ñ gostei dos sabores q pedi e achei o preço muito elevado",
-      "restaurantId": "ice-cream"
     },
     {
       "name": "Lucas",
@@ -318,20 +276,6 @@
       "date": "2017-01-23T18:25:43",
       "rating": 5,
       "comments": "Rápido e sempre uma delicia!! Ja pedi 3x e sempre veio rapido e tudo certinho.",
-      "restaurantId": "tasty-treats"
-    },
-    {
-      "name": "Larissa",
-      "date": "2017-02-02T18:25:43",
-      "rating": 2.5,
-      "comments": "A taxa de entrega poderia ser mais barata.",
-      "restaurantId": "tasty-treats"
-    },
-    {
-      "name": "Jarbas",
-      "date": "2016-12-15T18:25:43",
-      "rating": 4.7,
-      "comments": "Excelente e chegou muito rápido!",
       "restaurantId": "tasty-treats"
     },
     {
